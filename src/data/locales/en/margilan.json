@@ -1,0 +1,11 @@
+{
+  "name": "Margilan",
+  "description": "Margilan in Fergana Region is an ancient silk city of 2,000+ years and ~300,000 people, famous for the Yodgorlik silk factory, Said Ahmad Khoja madrasa and crafts. Continental climate; since 2007 jubilee of 2,000 years; known since 7th c. in sources. Atlas and adras ikat textiles are world-renowned.",
+  "monuments": [
+    { "title": "Yodgorlik silk factory", "info": "Since 1924, major hand-woven natural silk workshop — from silkworm to fabric; visitors see the full process." },
+    { "title": "Said Ahmad Khoja Ishan Madrasa", "info": "c. 1907–09 by Sayyid Ahmadkhoja Ghiyas Khojayev; brick traditional complex, active mosque and shrine." },
+    { "title": "Pir Siddiq complex (Pigeon shrine)", "info": "Mid-18th c.; legend says pigeons saved the saint — thousands of birds still gather here." },
+    { "title": "Khoja Maus Mausoleum", "info": "First half 18th c. single-chamber memorial with refined decoration — quiet pilgrimage site." },
+    { "title": "Erkin Vahidov Creators’ Park", "info": "2017 cultural park to poet and Hero of Uzbekistan Erkin Vahidov: statue, memorial museum and creative school." }
+  ]
+}

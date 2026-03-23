@@ -1,0 +1,15 @@
+{
+  "name": "Termez",
+  "description": "Termez is a 2,500-year-old strategic city on the Amu Darya near Afghanistan — a logistics and border hub where ancient Bactria, Buddhist sites and Islamic scholarship meet. Surkhandarya’s hot climate and ancient fortresses make it a distinctive destination. Old Termez (6th c. BC–17th c. AD) is a state reserve and museum since 2019; the region is a centre for Islamic and Buddhist studies.",
+  "monuments": [
+    { "title": "Hakim at-Termezi complex", "info": "9th–15th c. shrine over Sufi scholar Hakim at-Termizi; mausoleum, mosque, khanaka and chillakhana; restored in Timurid times; on Old Termez citadel by the river." },
+    { "title": "Sultan Saodat complex", "info": "10th–17th c. sacred cemetery of Prophet Muhammad’s descendants (sayyids) around Hasan al-Amir’s tomb; rebuilt 2002/2019; distinctive brickwork." },
+    { "title": "Fayaztepa Buddhist monastery", "info": "1st–7th c. AD vihara near Termez; found 1963; prayer hall, courtyard and service rooms; clay Buddha and Triad seal." },
+    { "title": "Kirk Kiz fortress", "info": "9th–15th c. mud-brick quadrangle — noble residence, khanaka or caravanserai; legend of heroine Guloyim and forty companions." },
+    { "title": "Kampyrtepa site", "info": "4th c. BC Bactrian site 30 km west on the Amu Darya, often linked to Alexandria Oxiana; palace walls and dwellings." },
+    { "title": "Zurmala stupa", "info": "2nd c. BC Kushan Buddhist stupa ~14.5 m high of ~1.2 million bricks — among Central Asia’s earliest brick monuments." },
+    { "title": "Abu Isa Muhammad at-Termezi mausoleum", "info": "Shrine of Imam al-Tirmidhi, author of Jami‘ at-Tirmidhi, in Sherabad District; white marble and carved ganch." },
+    { "title": "Jarqurghan minaret", "info": "1109 minaret in Jarqurghan District (~60 km from Termez) by Ali ibn Muhammad al-Sarakhsi; spiral brickwork; ~21.6 m of the lower tier remains." },
+    { "title": "Qoratepa complex", "info": "1st–3rd c. AD Kushan cave monasteries northeast of Old Termez on three hills — major Buddhist centre in Central Asia." }
+  ]
+}

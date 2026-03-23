@@ -1,0 +1,10 @@
+{
+  "name": "Namangan",
+  "description": "Namangan in northern Fergana is Uzbekistan’s second city after Tashkent by population — industrial and crafts centre, “City of Flowers” with an international flower festival since 1961. Population 700,000+; rich architectural heritage.",
+  "monuments": [
+    { "title": "Aksikent archaeological site", "info": "Ancient city ruins (3rd c. BC–17th c. AD) in Turakurgan on the Syr Darya — major Fergana capital and crafts centre, birthplace of Zahiruddin Muhammad Babur; open-air study site." },
+    { "title": "Mulla Bozor Okhund complex", "info": "17th c. shrine to scholar Khwaja Ubaydullah Boburkhon, teacher of poet Mashrab; blue dome and courtyard; restored 1990s." },
+    { "title": "Khoja Amin Mausoleum", "info": "18th c. over Imam Khoja Eshon of the Sheikhantaur line; 9×12 m brick iwan–dome with girih carving." },
+    { "title": "Valley of Legends (Bobur Park)", "info": "Former Bobur Park — one of Central Asia’s largest modern leisure parks (100+ ha): water park, rides, malls and flower festival venues." }
+  ]
+}

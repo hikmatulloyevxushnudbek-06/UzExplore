@@ -1,0 +1,11 @@
+{
+  "name": "Navoi",
+  "description": "Navoi Region (since 1982, restored 1992) is an industrial area of ~111,000 km² with gold, uranium, Navoi Mining and Metallurgy Combine and chemical industry. Sights include Lake Aydar, Sarmyshsay petroglyphs and Rabati Malik. Navoi city lies on the Great Silk Road with ancient caravanserais and cliff art — a blend of industry and heritage.",
+  "monuments": [
+    { "title": "Rabati Malik caravanserai", "info": "11th c. caravanserai in Karman District — among Central Asia’s earliest and largest; monumental portal preserved in the desert." },
+    { "title": "Rabati Malik cistern (sardoba)", "info": "11th c. water reservoir paired with the caravanserai — cool storage for caravan water on the Silk Road." },
+    { "title": "Qosim Sheikh complex", "info": "16th–20th c. in Karman: khanaka, domed tombs and mosque built 1558 by Abdulla Khan II for Sheikh Qosim Azizon." },
+    { "title": "Nurata sacred spring and fortress", "info": "Pilgrimage spring and ruins of Nur fortress; legends link the fort to Alexander the Great." },
+    { "title": "Mir Sayyid Bakhrom Mausoleum", "info": "10th–11th c. (c. 1020) in Karman — one of Uzbekistan’s smallest mausoleums (4.5×4.5 m), brickwork like the Samanid Mausoleum in Bukhara." }
+  ]
+}

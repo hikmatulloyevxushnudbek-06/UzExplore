@@ -1,0 +1,11 @@
+{
+  "name": "Nukus",
+  "description": "Nukus is the capital of Karakalpakstan on the Amu Darya — administrative, economic and cultural centre since 1932. Population 330,000+ (2024 ~343,500). Known for the Savitsky art museum and the desert setting near the Kyzylkum. Founded on the site of ancient Shurcha fortress; awarded Friendship Order 2003. Savitsky Museum holds the world’s second-largest collection of Russian avant-garde; regional museum and Mizdakhan cemetery are key sights.",
+  "monuments": [
+    { "title": "Savitsky State Art Museum", "info": "Founded 1966 by Igor Savitsky — “Louvre in the Sands”; major avant-garde collection and Karakalpak folk art." },
+    { "title": "Mizdakhan complex", "info": "Archaeological cemetery and town from 4th c. BC to 14th c. AD near Khojeyli over 200 ha — “clocks of the world” legends; mausoleums and underground mosque." },
+    { "title": "Chilpyq (Sun minaret)", "info": "1st c. BC–4th c. AD Zoroastrian tower of silence on a hill south of Nukus by the Amu Darya; linked to solar rites." },
+    { "title": "Sultan Uvays Qarani complex", "info": "12th–19th c. shrine in Beruniy District to early Islamic saint Uvays al-Qarani; mosque, chillakhana and sacred pool with “holy fish”." },
+    { "title": "Topraq Qala", "info": "2nd–3rd c. AD Khorezmian fortress-palace near Nukus, UNESCO-listed; wall paintings and rich finds from ancient Khorezm." }
+  ]
+}

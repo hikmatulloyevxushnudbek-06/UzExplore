@@ -1,0 +1,22 @@
+{
+  "name": "Khiva",
+  "description": "Khiva in Khorezm Region is a 2,500-year-old “open-air museum” city, UNESCO-listed Itchan Kala with madrasas, mosques and minarets (e.g. Kalta Minor). A key Silk Road cultural and trade hub; inner town is a dense ensemble of medieval monuments among the best preserved in Central Asia.",
+  "monuments": [
+    { "title": "Kalta Minor", "info": "Unfinished minaret before Muhammad Amin Khan Madrasa, clad in blue tiles — Khiva’s emblem; one of the tallest medieval minarets in Uzbekistan." },
+    { "title": "Friday Mosque", "info": "213 carved wooden columns support the roof; 10th–18th c. mosque as a vast hypostyle hall in the centre of Itchan Kala." },
+    { "title": "Kunya Ark", "info": "17th c. (1686–1688) citadel rebuilt in the 19th c.: reception halls, mosque, mint, harem and prison — seat of Khivan khans." },
+    { "title": "Pahlavan Mahmud complex", "info": "Shrine to poet, philosopher and wrestler Pahlavan Mahmud (1247–1326); blue dome and tilework; burial place of Khorezm rulers." },
+    { "title": "Islam Khoja minaret", "info": "1908–1910, tallest and newest minaret of Itchan Kala (~56 m), built for vizier Islam Khoja; tapering shaft with glazed patterns." },
+    { "title": "Tash Hovli Palace", "info": "Allakuli Khan’s palace (111 rooms: court of justice, pleasure court, harem) with blue tiles and carved wooden columns." },
+    { "title": "Muhammad Amin Khan Madrasa", "info": "1852–1855 by the west gate of Itchan Kala; two storeys, 125 cells; among the largest madrasas; now Orient Star Khiva hotel." },
+    { "title": "Nurullaboy Palace", "info": "Former official reception palace of Asfandiyarkhan in Dishan Kala; summer residence blending Eastern and European styles." },
+    { "title": "Allakuli Khan Madrasa", "info": "1834–1835 by Polvon Gate on an artificial platform; khanaka, caravanserai and covered bazaar form one ensemble." },
+    { "title": "Shergazi Khan Madrasa", "info": "1719–1726, “abode of scholars” near Pahlavan Mahmud’s entrance." },
+    { "title": "Sayid Alauddin Mausoleum", "info": "14th c. over Sheikh Alauddin’s grave; fine glazed tomb chamber — high Timurid-era art." },
+    { "title": "Ota Darvoza (West Gate)", "info": "Main western gate into Itchan Kala, rebuilt 1970s; leads to Kunya Ark and Muhammad Amin Khan Madrasa." },
+    { "title": "Polvon Darvoza (East Gate)", "info": "1806 eastern gate, busiest entrance; iwans and bazaar rows toward Allakuli Khan Madrasa." },
+    { "title": "Tosh Darvoza (South Gate)", "info": "1830s–40s southern gate of Itchan Kala; stone-built, controlled trade routes to the outer town." },
+    { "title": "Bogcha Darvoza (North Gate)", "info": "19th c. northern gate with six domed chambers; main approach from Urgench." },
+    { "title": "Kutlug Murad Inaq Madrasa", "info": "Early 19th c. madrasa of the khan’s uncle; among the first two-storey cell designs and an underground cistern (sardoba)." }
+  ]
+}

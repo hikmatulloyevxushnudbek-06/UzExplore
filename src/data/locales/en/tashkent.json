@@ -1,0 +1,21 @@
+{
+  "name": "Tashkent",
+  "description": "Tashkent is Uzbekistan’s capital — Central Asia’s largest city, political, economic and cultural hub. Population over 3.1 million (2025), area ~435 km², 12 districts. Ancient city (2,200+ years) and modern aviation/transport node. Continental climate; honoured as CIS Youth Capital 2024; embassies, industry, theatres, museums, Humo Arena and Tashkent City define its profile.",
+  "monuments": [
+    { "title": "Hazrati Imam (Hastimom)", "info": "Major religious and architectural ensemble in Old Tashkent (Olmazor), named after scholar Qaffol Shoshiy; holds the oldest Osman Quran; includes Barak Khan Madrasa, Tilla Sheikh Mosque and Qaffol Shoshiy mausoleum." },
+    { "title": "Kukeldash Madrasa", "info": "16th c. (c. 1570), Shaybanid era — one of Tashkent’s largest madrasas beside Chorsu, long a centre of learning." },
+    { "title": "Chorsu Bazaar (Old City)", "info": "Historic “Old Juva” market under a blue dome at four trading streets; crafts, food and Old Tashkent atmosphere." },
+    { "title": "Sheikhantaur Mausoleum", "info": "14th c. memorial to Sufi Sheikh Khovandi Tahur; two chambers under a dome; sacred plane tree nearby; part of an ensemble with Qaldirghochbiy and Yunus Khan." },
+    { "title": "Suzuk Ota complex", "info": "Mausque and mausoleum (1363–64) for Suzuk Ota, descendant of Khoja Ahmad Yasawi, built by Timur; centre of craft traditions; restored with craft workshops around it." },
+    { "title": "Zangiota complex", "info": "12th–14th c. pilgrimage site in Zangiota District: mausoleums of saint Zangi Ota and Ambar Bibi, mosque, madrasa and gardens from Timurid times." },
+    { "title": "Ming Urik site", "info": "Ancient urban ruins (1st–13th c. AD) by the Salor canal near the railway — likely capital of ancient Chach; walls and dwellings; named for a 19th c. apricot orchard." },
+    { "title": "Shoshtepa site", "info": "9th–8th c. BC settlement by the Jon canal, among Tashkent’s earliest archaeology; capped for conservation; linked to the city’s 2,200-year narrative." },
+    { "title": "Aktepa site (Yunusabad)", "info": "5th–13th c. fortress mound by the Aktapa canal; early medieval stronghold of the Shash oasis; conservation and future tourism planned." },
+    { "title": "Sheikh Zainuddin Mausoleum", "info": "13th–14th c. for Sheikh Zainuddin Kuvayi Arifon; mosque, cemetery and famous chillakhona with remarkable acoustics." },
+    { "title": "Khoja Ahror Valiy Mosque", "info": "15th c. Friday mosque built by Khoja Ahror, once the city’s main jome; three large domes; linked to the arrival of the Osman Quran." },
+    { "title": "Yunus Khan Mausoleum", "info": "After 1487, for Moghulistan ruler Yunus Khan, built by his son Ahmad Khan; rectangular plan, iwan and khanaka; part of the Sheikhantaur cemetery." },
+    { "title": "Abdulkasim Madrasa", "info": "19th c. near Oliy Majlis; major school where Abdulla Qodiriy and Munavvar Qori studied; now the Craftsmen’s Union with workshops for visitors." },
+    { "title": "Qaldirghochbiy Mausoleum", "info": "15th c. pyramid-like dome in Sheikhantaur cemetery — one of the oldest structures there." },
+    { "title": "Barak Khan Madrasa", "info": "c. 1531–32 by Navruz Ahmad Khan (Barak Khan) in Hazrati Imam; brick madrasa with Shaybanid tombs; central to the ensemble." }
+  ]
+}

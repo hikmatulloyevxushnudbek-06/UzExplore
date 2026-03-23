@@ -1,0 +1,11 @@
+{
+  "name": "Jizzakh",
+  "description": "Jizzakh, regional capital since 1973 on the Sangzor River between Tashkent and Samarkand at the northern foot of the Nuratau range, has 188,000+ people (2023) with industry and agriculture. Ancient Silk Road city known for the Ilonoti (Amir Temur) gorge and the scenic Zomin mountains.",
+  "monuments": [
+    { "title": "Amir Temur Gate (Ilonoti Gorge)", "info": "Strategic Sangzor gorge linking Nuratau and Mogoltau — historic military and trade route; cliffs and inscriptions linked to the Timurid era." },
+    { "title": "Orda Ecological Park", "info": "Green culture and recreation park in the city centre on the site of an old fortress — heritage and nature combined." },
+    { "title": "Pishagor Cave", "info": "Four natural caves in Peshagor gorge, Forish District; 8th–12th c. Khoja Sirab Ota shrine and Niyatlar spring; stalactites and prehistoric finds." },
+    { "title": "Khojamushkent Ota shrine", "info": "Medieval sacred site in Gallaorol District among arch groves and springs — healing water and landscape." },
+    { "title": "Zomin National Park (Switzerland of Uzbekistan)", "info": "Nature reserve at 2000–2500 m: juniper forests, clean air, “Sherafkan” fortress ruins and ancient arch — key ecotourism area." }
+  ]
+}

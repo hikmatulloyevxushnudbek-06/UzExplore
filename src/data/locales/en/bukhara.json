@@ -1,0 +1,24 @@
+{
+  "name": "Bukhara",
+  "description": "Bukhara is over 2,500 years old — one of Uzbekistan’s holiest ancient cities, the “City of Domes”. A UNESCO World Heritage historic centre, hub of Islamic culture, with the Ark fortress, Kalon Minaret, many madrasas and major tourism. Ibn Sina, Bahauddin Naqshband and others lived and worked here; today it draws visitors from around the world.",
+  "monuments": [
+    { "title": "Ark fortress", "info": "The city’s oldest monumental citadel on an artificial hill (4 ha, 16–20 m); rulers’ “city within a city” and residence of Bukhara emirs until 1920." },
+    { "title": "Poi Kalon", "info": "12th–16th c. ensemble: Kalon Minaret, Kalon Mosque and Mir-i-Arab Madrasa. The minaret served caravans as a landmark and survived the Mongol invasion." },
+    { "title": "Lyabi Hauz", "info": "16th–17th c. complex around Nadir Divanbegi’s pool: Kukeldash and Nadir Divanbegi madrasas and a khanaka — the heart of the old centre." },
+    { "title": "Ismail Samani Mausoleum", "info": "c. 892–907: tomb of Ismail Samani and dynasty; masterpiece of baked-brick geometry, Sogdian tradition, UNESCO-listed." },
+    { "title": "Chor Minor", "info": "1807 madrasa with four distinctive towers; some see symbolic reference to world faiths; colourful decor in the historic centre." },
+    { "title": "Sitorai Mohi Hosa", "info": "19th–20th c. summer palace of Bukhara emirs (“Star-like the Moon”); north of the city, blend of Eastern and European styles; museum of decorative arts and wellness centre." },
+    { "title": "Bolo Hauz Mosque", "info": "1712, “Forty Columns” mosque opposite the Ark; emirs attended Friday prayer here. Twenty tall wooden pillars reflect in the pool — forty visible." },
+    { "title": "Ulugh Beg and Abdulaziz Khan madrasas", "info": "Facing pair (1417 and 1652): astronomical decoration vs rich ornament — highlights of medieval Islamic education and architecture." },
+    { "title": "Magoki Attori Mosque", "info": "12th–16th c. domed mosque partly below ground; famous carved decoration; among Bukhara’s oldest surviving monuments." },
+    { "title": "Chor Bakr necropolis", "info": "16th c. “City of the Dead” near Bukhara: tombs of Juybari sheikhs; mosque, madrasa, khanaka and courtyards in Sumitan village." },
+    { "title": "Chashma Ayub Mausoleum", "info": "12th–16th c. over a sacred spring linked to Prophet Job; conical domes; today a water museum." },
+    { "title": "Abdulkhaliq Gijduvani shrine (1st pir)", "info": "Abdulkhaliq Gijduvani (1103–1179), first of the seven pirs, founder of Khojagan; complex in Gijduvan with mausoleum, madrasa and mosque." },
+    { "title": "Khoja Orif Revgari shrine (2nd pir)", "info": "Khoja Orif ar-Rivgari, second pir, major mystic in the formation of Khojagan–Naqshbandi tradition." },
+    { "title": "Khoja Mahmud Anjir Faghnavi (3rd pir)", "info": "d. 1317, third pir, great Naqshbandi sheikh; complex with a revered well." },
+    { "title": "Khoja Ali Romitaniy (4th pir)", "info": "1191–1321, fourth pir, known as Hazrati Azizon in Sufi circles." },
+    { "title": "Khoja Muhammad Boboyi Samosi (5th pir)", "info": "1259–1354, fifth pir; linked to Bahauddin Naqshband’s spiritual lineage." },
+    { "title": "Sayyid Amir Kulol (6th pir)", "info": "In Kofirshon village: patron of potters and spiritual teacher of Bahauddin Naqshband." },
+    { "title": "Bahauddin Naqshband (7th pir)", "info": "Great complex for the founder of the Naqshbandi order — among Islam’s holiest pilgrimage sites, also called Qasri Arifon." }
+  ]
+}

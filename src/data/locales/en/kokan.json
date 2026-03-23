@@ -1,0 +1,11 @@
+{
+  "name": "Kokand",
+  "description": "Kokand is one of the Fergana Valley’s oldest major cities and was capital of the Kokand Khanate (1709–1876). A centre of culture and crafts with 300+ mosques and monuments; population over 314,000; hosts an international applied arts festival. History from 10th c. as Khavakend/Khokand; 18th c. khanate under Shahrukh Bey. On the lower Sokh River; wood carving, pottery and silk traditions.",
+  "monuments": [
+    { "title": "Khudayar Khan Palace", "info": "1871 palace of the last Kokand khan — seven courtyards, 119 rooms; now regional museum; famous portal, tiles and ganch carving." },
+    { "title": "Jome Mosque", "info": "1819–22 by Khan Umar; long iwan on ~100 carved columns — a masterpiece of Central Asian woodwork; 98 columns, 22.5 m minaret." },
+    { "title": "Norbutabiy Madrasa", "info": "c. 1795–98, largest madrasa of Kokand; also called Madrasai Mir; fine fired-brick façade." },
+    { "title": "Modari Khan Mausoleum", "info": "1825 for Khan Umar’s mother, linked to poetess Nodira; turquoise dome and tile portal near the royal necropolis." },
+    { "title": "Dasturkhanchi Madrasa", "info": "1833 by vizier Mahmud Dasturkhanchi; 25 cells, classroom and mosque; 68 students; restored for visitors." }
+  ]
+}

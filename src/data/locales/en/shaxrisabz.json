@@ -1,0 +1,12 @@
+{
+  "name": "Shakhrisabz",
+  "description": "Shakhrisabz, ancient Kesh, is Amir Temur’s birthplace and the Timurids’ second capital, UNESCO-listed. Famous for Ak Saray, Dorut Tilovat and Dorus Saodat. In Qashqadaryo Region between the Oksuv and Tanhozdaryo rivers (~175,000 people, hot dry summers). Temur was born in 1336 near Khoja Ilgor; medieval names Kesh and Nautaka; historic centre inscribed 2000.",
+  "monuments": [
+    { "title": "Ak Saray complex", "info": "Temur’s grand palace; the huge portal survives with fine tilework and the inscription: “If you doubt our power, look at our buildings.”" },
+    { "title": "Dorut Tilovat complex", "info": "Religious ensemble: tomb of Shamsuddin Kulol, Gumbazi Sayyidon khanaka and the Blue Dome Mosque — among the holiest Timurid sites." },
+    { "title": "Kok Gumbaz Mosque", "info": "1435–36 congregational mosque by Ulugh Beg opposite Kulol’s mausoleum; huge blue-tiled dome visible from afar." },
+    { "title": "Dorus Saodat complex", "info": "14th c. “Abode of Power and Fortune” near Ak Saray: tombs of Jahangir, Umar Shaykh and Temur’s crypt; madrasa and mosque." },
+    { "title": "Chubin Madrasa", "info": "16th c. in Chubin mahalla; UNESCO-listed area; Shakhrisabz history museum on site." },
+    { "title": "Malik Ashtar Mosque", "info": "18th–19th c. neighbourhood mosque with a large winter khanaka and dome in the old town." }
+  ]
+}

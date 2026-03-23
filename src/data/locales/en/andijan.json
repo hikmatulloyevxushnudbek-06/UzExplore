@@ -1,0 +1,11 @@
+{
+  "name": "Andijan",
+  "description": "Andijan is the smallest region by area but densest in population (3.6M+) in the Fergana Valley — regional centre since 1941, GM plant, transport and culture. Ancient city, birthplace of Zahiruddin Muhammad Babur; oil and gas industry.",
+  "monuments": [
+    { "title": "Bobur Park complex", "info": "Memorial to Babur on Bogishamol heights: house-museum, symbolic tomb, cableway, gardens and recreation." },
+    { "title": "Jome Mosque and madrasa", "info": "Late 19th c. (1870s–90s) ensemble of mosque, madrasa and minaret sponsored by Mahmud Aliboy; ~1.5–2 ha, 27–32 m minaret and carved iwan." },
+    { "title": "Khonabad resort and park", "info": "Spa in Khonabad on the eastern Fergana rim: iodine–bromine springs, cardiology, neurology, physiotherapy and salt therapy." },
+    { "title": "Imam-ota shrine", "info": "18th c. pilgrimage site in Khojaabad District, state-protected since 1982; Imam Muhammad Hanafiy; mountain setting and tourism village status." },
+    { "title": "Mingtepa archaeological site", "info": "4th–5th c. BC ruins in Marhamat — capital of ancient Davan, Ershi city; Silk Road crafts and farming centre; joint Uzbek–Chinese research since protection in 2019." }
+  ]
+}

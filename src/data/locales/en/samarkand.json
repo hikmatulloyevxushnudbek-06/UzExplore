@@ -1,0 +1,19 @@
+{
+  "name": "Samarkand",
+  "description": "Samarkand is one of Uzbekistan’s oldest and largest cities and the administrative, economic and cultural centre of Samarkand Region. On the Great Silk Road, it is world-famous for its unique mosques, mausoleums and historic monuments. Brief facts: historic importance — the city was the capital of the Uzbek SSR in 1925–1930; sights include Amir Temur’s mausoleum, Registan Square and the Shah-i-Zinda ensemble; location — central Uzbekistan, Samarkand Region. Its rich history and heritage earn it the name “Pearl of the East”.",
+  "monuments": [
+    { "title": "Registan Square", "info": "A world-famous ensemble of three madrasas: Ulugh Beg, Sher-Dor and Tilla-Kari." },
+    { "title": "Shah-i-Zinda", "info": "A necropolis ensemble of mausoleums formed between the 11th and 19th centuries." },
+    { "title": "Gur-e Amir", "info": "Mausoleum of Amir Temur and the Timurid dynasty." },
+    { "title": "Bibi-Khanym Mosque", "info": "A grand congregational mosque built by order of Amir Temur." },
+    { "title": "Ulugh Beg Observatory", "info": "Founded by Muhammad Taraghai Ulugh Beg, grandson of Amir Temur (born 1394, eleven years before his grandfather’s death). His teachers included the scholar Orif Ozari and the mathematician Qazizada Rumi, who later contributed to the observatory’s work." },
+    { "title": "Mausoleum of Khoja Doniyor", "info": "Near Afrasiab and the Siab canal; an unusual early 20th-century memorial with a 15 m elongated dome, revered by followers of Islam, Christianity and Judaism. Five domes and a spring considered healing." },
+    { "title": "Rukhabad Mausoleum", "info": "One of Samarkand’s oldest buildings (1380s), built by Amir Temur for the saint Burhanuddin Sagharji. A simple cube under a grand dome — “abode of spirits”; Temur dismounted here in respect." },
+    { "title": "Khoja Ahror Valiy complex", "info": "Architectural ensemble near Samarkand (Ulugh Beg village): Nadir Divanbegi madrasa, two iwans, mosque, minaret and courtyard with a pool around Khoja Ahror’s grave." },
+    { "title": "Abu Mansur al-Maturidi mausoleum", "info": "Magnificent memorial (2000) to the great theologian and founder of Maturidism; complex near Registan." },
+    { "title": "Imam al-Bukhari complex", "info": "Pilgrimage site over the grave of hadith scholar Imam Bukhari: mausoleum, mosque, library and Dar al-Hadith study centre; restored with modern facilities for visitors." },
+    { "title": "Hazrat Khizr Mosque", "info": "Hilltop mosque named for the saint Khizr, with a terrace overlooking the Siab and views of Shah-i-Zinda and Bibi-Khanym — a symbolic entrance to the old city from the bazaar side." },
+    { "title": "Afrasiab hills", "info": "Large ancient and medieval urban ruins north of Samarkand, the site of old Samarkand." },
+    { "title": "Afrasiab Museum", "info": "Samarkand city history museum on the site of ancient Afrasiab, one of the world’s major archaeological landmarks." }
+  ]
+}
