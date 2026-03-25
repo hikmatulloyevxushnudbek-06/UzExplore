@@ -4,7 +4,8 @@ export default {
     "./index.html",
     "./src/**/*.{js,ts,jsx,tsx}",
   ],
-  darkMode: 'class', // SHU QATOR DARK MODE ISHLASHI UCHUN SHART!
+  // darkMode disabled; app is light-only now.
+  darkMode: false,
   theme: {
     extend: {},
   },

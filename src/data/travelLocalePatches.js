@@ -61,3 +61,5 @@ export const travelPatchRu = {
   andijan: ruAndijan,
   sirdaryo: ruSirdaryo,
 };
+
+

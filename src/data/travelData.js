@@ -1294,3 +1294,5 @@ export const getCityBySlug = (slug, language = 'uz') => {
 };
 
 export default travelData;
+
+
